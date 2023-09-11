@@ -1,0 +1,24 @@
+.events-landing-gradient-text {
+  background: linear-gradient(106.25deg, #D146FF -1.49%, #D146FF -1.48%, #F9BED4 51.55%, #FFFFFF 112.94%);
+  -webkit-background-clip: text;
+  background-clip: text;
+  color: transparent;
+}
+
+.events-box-purple-shadow-glowing {
+  box-shadow: 
+    0 0 1px #A164A9, 
+    0 0 2px #A164A9, 
+    0 0 3px #A164A9, 
+    0 0 0px #A164A9, 
+    0 0 0px #A164A9;
+}
+
+.events-white-shadow-glowing {
+  box-shadow: 
+    0 0 10px #FFFFFF,
+    0 0 20px #FFFFFF,
+    0 0 30px #FFFFFF,
+    0 0 40px #FFFFFF,
+    0 0 50px #FFFFFF;
+}

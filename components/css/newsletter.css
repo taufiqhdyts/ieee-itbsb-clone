@@ -1,0 +1,26 @@
+.newsletter-purple-shadow-glowing {
+  text-shadow: 
+    0 0 10px #FF38DF, 
+    0 0 20px #FF38DF, 
+    0 0 30px #FF38DF, 
+    0 0 40px #FF38DF, 
+    0 0 50px #FF38DF;
+}
+
+.newsletter-box-purple-shadow-glowing {
+  box-shadow: 
+    0 0 0px #A164A9, 
+    0 0 2px #A164A9, 
+    0 0 4px #A164A9, 
+    0 0 6px #A164A9, 
+    0 0 8px #A164A9;
+}
+
+.newsletter-white-shadow-glowing {
+  box-shadow: 
+    0 0 10px #FFFFFF,
+    0 0 20px #FFFFFF,
+    0 0 30px #FFFFFF,
+    0 0 40px #FFFFFF,
+    0 0 50px #FFFFFF;
+}
