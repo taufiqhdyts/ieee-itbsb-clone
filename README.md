@@ -1,6 +1,7 @@
 <h1>Property of IEEE ITB SB</h1>
 <h1>Used ONLY for GDSC ITB submission</h1>
 <h1>Contributed "../about" and "../event/id"</h1>
+<h1>Work on progress</h1>
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
