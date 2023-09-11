@@ -1,3 +1,6 @@
+<h1>Property of IEEE ITB SB</h1>
+<h1>Used only for screening</h1>
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
